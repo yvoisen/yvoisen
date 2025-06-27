@@ -2,7 +2,7 @@
 
 ─────────────────────────────────────────────────────────────────────────────────────────
 
-          ![](https://media.discordapp.net/attachments/1375712466926964848/1388146242714075186/Untitled121_20250627141724.png?ex=685feb6e&is=685e99ee&hm=b0d1233cc8949a3bdd0aff70e19f4f293eedffa3ad810a3298726a8497c0d18e&=&format=webp&quality=lossless&width=1000&height=1000)
+                            ![](https://media.discordapp.net/attachments/1375712466926964848/1388146242714075186/Untitled121_20250627141724.png?ex=685feb6e&is=685e99ee&hm=b0d1233cc8949a3bdd0aff70e19f4f293eedffa3ad810a3298726a8497c0d18e&=&format=webp&quality=lossless&width=1000&height=1000)
 
 
 
