@@ -4,7 +4,7 @@
             ![](https://cdn.discordapp.com/attachments/934596480310853685/1401130980873342977/image.png?ex=688f2869&is=688dd6e9&hm=19adeb87c9393d81002ee1d14a48b704fe450fa3b871f449a7b1411ae268226f&)   ![](https://cdn.discordapp.com/attachments/934596480310853685/1401167471582515271/image.png?ex=688f4a65&is=688df8e5&hm=fa32d3fedfe5daee242c0ae609fd9c5e793c164f95f0fa62c0efe65a6ce6d3b8&)
   
                                  this person is NOT me. woke up n saw em at spawn. don't get confused with them tryna be me 🥀
-               (I ALWAYS have either tier 1-3 supporter on my skins. (majority t3) my github OR patreon is always linked.)
+                (I ALWAYS have either tier 1-3 supporter on my skins. (majority t3) my github OR patreon is always linked.)
                               (couldn't have made it anymore obvious, loser. get a hobby)
                                               
 ────────────────────────────────────────────────────────────────────────────────────
