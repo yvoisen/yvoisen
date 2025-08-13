@@ -1,7 +1,7 @@
         ----------------✦•┈๑⋅⋅⋅ 🖤 ⋅⋅⋅๑┈•✦----------------  ![](https://komarev.com/ghpvc/?username=yvoisen&color=73ae21&style=plastic&label=🍓STALKERS&base=4274)  ----------------✦•┈๑⋅⋅⋅ 🖤 ⋅⋅⋅๑┈•✦----------------
 
 ────────────────────────────────────────────────────────────────────────────────────
-            ![](https://cdn.discordapp.com/attachments/934596480310853685/1401167471582515271/image.png?ex=689dcae5&is=689c7965&hm=c24a175b5d06b1cb73576693a78176cfbb9f061b7e99d86007643da75434edf1&)   ![](https://cdn.discordapp.com/attachments/934596480310853685/1401130980873342977/image.png?ex=689da8e9&is=689c5769&hm=7416ebcb1840ef3e93f5020d677d7dc69f782fcc2180268ac9bd154fae1009c6&)
+            ![](https://cdn.discordapp.com/attachments/934596480310853685/1401130980873342977/image.png?ex=689da8e9&is=689c5769&hm=7416ebcb1840ef3e93f5020d677d7dc69f782fcc2180268ac9bd154fae1009c6&)   ![](https://cdn.discordapp.com/attachments/934596480310853685/1401167471582515271/image.png?ex=689dcae5&is=689c7965&hm=c24a175b5d06b1cb73576693a78176cfbb9f061b7e99d86007643da75434edf1&)
   
                                 this person is NOT me. saw em at spawn this morning. don't get confused with them tryna be me 🥀
                  (I ALWAYS have either tier 1-3 supporter on my skins. (majority t3) my github OR patreon is always linked.)
