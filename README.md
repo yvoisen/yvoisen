@@ -2,7 +2,7 @@
   
   
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1430390243621863575/image-135_edit_64922222294259.png?ex=68f99a39&is=68f848b9&hm=83aa18c4a35806eed520c5c74dfdefb19ef38d0379f77f12972f47b3ac34d09f&=&format=webp&quality=lossless&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1430405990980780173/image-135_edit_64922222294259_1.png?ex=68f9a8e3&is=68f85763&hm=e734de03a2189dfae55b2e6bd65c2b463c46411ee453bbc052f675a067b042ca&=&format=webp&quality=lossless&width=500&height=500)
 
 
 
@@ -12,6 +12,6 @@
 
   
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1430390243621863575/image-135_edit_64922222294259.png?ex=68f99a39&is=68f848b9&hm=83aa18c4a35806eed520c5c74dfdefb19ef38d0379f77f12972f47b3ac34d09f&=&format=webp&quality=lossless&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1430405990980780173/image-135_edit_64922222294259_1.png?ex=68f9a8e3&is=68f85763&hm=e734de03a2189dfae55b2e6bd65c2b463c46411ee453bbc052f675a067b042ca&=&format=webp&quality=lossless&width=500&height=500)
 
                                       [ata](https://yvoisen.atabook.org)               [straw](https://yvoisen.straw.page)               [comms](https://yvoisencomms.straw.page)
