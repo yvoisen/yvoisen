@@ -2,16 +2,16 @@
   
   
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1430405990980780173/image-135_edit_64922222294259_1.png?ex=68f9a8e3&is=68f85763&hm=e734de03a2189dfae55b2e6bd65c2b463c46411ee453bbc052f675a067b042ca&=&format=webp&quality=lossless&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1430405990980780173/image-135_edit_64922222294259_1.png?ex=690434e3&is=6902e363&hm=f47b2f43a8b66176de749b70c569f9dd52a7d55a1a939cda2a9a553fde93f5be&=&format=webp&quality=lossless&width=500&height=500)
 
 
 
   
-                                      ![](https://cdn.discordapp.com/attachments/934596480310853685/1430675965478178966/Untitled146_20251022224634.png?ex=68faa452&is=68f952d2&hm=390113fa5786f8aebb0e6b374f9f0bccef303cb2e4292319d9b27de46bdd4dd2&=&format=webp&quality=lossless&width=500&height=500)
+                                      ![](https://cdn.discordapp.com/attachments/934596480310853685/1430675965478178966/Untitled146_20251022224634.png?ex=69048792&is=69033612&hm=ef47c270a3991cdcdb671db6f495bc437917c159919189894e59fed0d9e9560a&=&format=webp&quality=lossless&width=500&height=500)
 
 
   
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1430405990980780173/image-135_edit_64922222294259_1.png?ex=68f9a8e3&is=68f85763&hm=e734de03a2189dfae55b2e6bd65c2b463c46411ee453bbc052f675a067b042ca&=&format=webp&quality=lossless&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1430405990980780173/image-135_edit_64922222294259_1.png?ex=690434e3&is=6902e363&hm=f47b2f43a8b66176de749b70c569f9dd52a7d55a1a939cda2a9a553fde93f5be&=&format=webp&quality=lossless&width=500&height=500)
 
                                   [ata](https://yvoisen.atabook.org)               [straw](https://yvoisen.straw.page)               [comms](https://yvoisencomms.straw.page)
