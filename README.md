@@ -15,8 +15,8 @@
   <br>
 
    <p align="center">          
-   $${\color{#91ae42}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
-    $${\color{#828e2f}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
+   $${\color{#64ad3a}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
+    $${\color{#61851f}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
  <br>
 
   <br>  <br>
@@ -28,29 +28,21 @@
   <br>
 
    <p align="center">          
-   $${\color{#64ad3a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#61851f}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
+   $${\color{#b6990a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+    $${\color{#af7900}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
  <br>
 
 
   <br>
 
    <p align="center">          
-   $${\color{#b6990a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#af7900}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
+   $${\color{#9b4f00}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
+    $${\color{#6f3701}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
 
 
   <br>
 
    <p align="center">          
-   $${\color{#9b4f00}WOULD \space BE \space APPRECIATED \space IF \space MY \space SKINS \space DON'T}$$ <br>
-    $${\color{#6f3701}GET \space COPIED. \space IT'S \space HAPPENED \space A \space LOT \space LATELY}$$ <br>
-    $${\color{#583107}AND \space I'M \space STARTING \space TO \space DISLIKE \space IT.}$$ <br>
- 
-  <br>
-
-    
- <p align="center">          
    $${\color{#b6990a}✦}$$ <br>
 
   <br>
