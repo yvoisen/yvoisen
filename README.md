@@ -54,7 +54,7 @@
  <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=583107&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh%2C+who+am+I+kiddin'%2C+Of+course+I+do!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=583107&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh%2C+who+am+I+kiddin'%2C.;Of+course+I+do!"/>
 </p>
 
    <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436268026034131086/Untitled152_20251107081339_edit_558026038823185.png?ex=690efc55&is=690daad5&hm=25de81a911aca73b1471d35d0bd7a27222d34585b9d09db8dd8dbeac6821ce41&" width="950" height="750"></a>
