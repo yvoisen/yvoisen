@@ -37,7 +37,7 @@
 
    <p align="center">          
    $${\color{#9b4f00}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#6f3701}USUALLY \space FOUND \space AT \space SPAWN, \space RBLX, \space OR \space DW \space AREA.}$$ <br>
+    $${\color{#6f3701}USUALLY \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREAS.}$$ <br>
     
    <p align="center">          
    $${\color{#583107}✦}$$ <br>
