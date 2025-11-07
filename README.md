@@ -18,7 +18,7 @@
  <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=aesvic&color=b04e22&plastic&label=⠀EUPHORIA+;⠀"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=64ae39&style=for-the-badge&label=.+𝗽𝗵𝗶𝗴𝗵𝘁𝗲𝗿𝘀+.&base=4274"></img></p>
  <br> 
 
 
