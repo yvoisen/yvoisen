@@ -1,8 +1,6 @@
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436241943867691051/image_2_edit_552947543808335.png?ex=690ee40b&is=690d928b&hm=44ffda03c39178c2c04e760a61c544f2fc9fceffef057dcbc6f5a088964f3dc1&" width="950" height="auto"></a>
 
-
-
   <br>  <br>  <br>  <br>
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=690ead3c&is=690d5bbc&hm=8dc78e8f3212aee37f4db302066943a61ab2b261b21579ea4a371b5e2ae5b4a2&" align="right" width="55%"></a>
@@ -55,14 +53,13 @@
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#b6990a}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#b6990a}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
  <br>
 
-
   <br>
 
-   <p align="center">          
+ <p align="center">          
    $${\color{#b6990a}✦}$$ <br>
  <br>
 
-  <br>
+  <br>  <br>  <br>  <br>
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436241943867691051/image_2_edit_552947543808335.png?ex=690ee40b&is=690d928b&hm=44ffda03c39178c2c04e760a61c544f2fc9fceffef057dcbc6f5a088964f3dc1&" width="950" height="auto"></a>
 
