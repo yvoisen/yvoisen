@@ -5,7 +5,7 @@
          <br>
 
 
-<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436241943867691051/image_2_edit_552947543808335.png?ex=690ee40b&is=690d928b&hm=44ffda03c39178c2c04e760a61c544f2fc9fceffef057dcbc6f5a088964f3dc1&" width="950" height="900"></a>
+<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436268026541375599/Untitled153_20251107081238_edit_558013217407562.png?ex=690efc56&is=690daad6&hm=a1d569cc8061995fed5e06e5fba4d3bdb9228937e8fe51096e34bad04be706c3&" width="950" height="900"></a>
 
    <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=690ead3c&is=690d5bbc&hm=8dc78e8f3212aee37f4db302066943a61ab2b261b21579ea4a371b5e2ae5b4a2&" align="right" width="60%"></a>
 
