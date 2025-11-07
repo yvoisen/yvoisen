@@ -12,7 +12,7 @@
 
  <p align="center">          
    $${\color{#91ae42}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
-    $${\color{#84912d}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
+    $${\color{#828e2f}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
 
  <br>
            
@@ -24,13 +24,13 @@
 
  <p align="center">          
    $${\color{#64ad3a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#618621}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
+    $${\color{#61851f}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
 
  <br>
  
  <p align="center">          
    $${\color{#b6990a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#b18500}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
+    $${\color{#af6b00}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
 
  <br>
 
