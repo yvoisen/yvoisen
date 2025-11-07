@@ -13,9 +13,10 @@
    $${\color{#b6990a}✦}$$ <br>
  <br>
 
-  <br>  <br>  <br>  <br>
 
- <p align="center">          
+  <br>
+
+   <p align="center">          
    $${\color{#91ae42}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
     $${\color{#828e2f}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
  <br>
@@ -54,7 +55,10 @@
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#b6990a}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#b6990a}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
  <br>
 
- <p align="center">          
+
+  <br>
+
+   <p align="center">          
    $${\color{#b6990a}✦}$$ <br>
  <br>
 
