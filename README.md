@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436241943867691051/image_2_edit_552947543808335.png?ex=690ee40b&is=690d928b&hm=44ffda03c39178c2c04e760a61c544f2fc9fceffef057dcbc6f5a088964f3dc1&" width="950" height="auto"></a>
+<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436262789390925854/Untitled150_20251107074745.png?ex=690ef775&is=690da5f5&hm=23c9aa9a070f2c8c8e71b8253eeab7ba3b0bab54afd0f86a2c1afdcd71427a91&" width="950" height="400"></a>
 
 
   <br>
@@ -58,4 +58,4 @@
 
   <br>
 
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436241943867691051/image_2_edit_552947543808335.png?ex=690ee40b&is=690d928b&hm=44ffda03c39178c2c04e760a61c544f2fc9fceffef057dcbc6f5a088964f3dc1&" width="950" height="auto"></a>
+   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436262789957287946/Untitled152_20251107075526.png?ex=690ef775&is=690da5f5&hm=a4e8b66deb2c541fc7d249f3d76d01d7fa00fbcce814364feb2046583c1446f0&" width="950" height="300"></a>
