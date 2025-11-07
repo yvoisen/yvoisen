@@ -8,7 +8,7 @@
   <br>
 
  <p align="center">          
-   $${\color{#b6990a}✦}$$ <br>
+   $${\color{#828e2f}✦}$$ <br>
  <br>
 
 
@@ -51,7 +51,7 @@
 
     
  <p align="center">          
-   $${\color{#b6990a}✦}$$ <br>
+   $${\color{#61851f}✦}$$ <br>
 
   <br>
 
@@ -62,7 +62,7 @@
   <br>
 
  <p align="center">          
-   $${\color{#b6990a}✦}$$ <br>
+   $${\color{#583107}✦}$$ <br>
  <br>
 
   <br>  <br>  <br>  <br>
