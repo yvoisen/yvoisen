@@ -53,11 +53,10 @@
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
  <br>
 
+  <br>  <br>  <br>  <br>
 
-  <br>
-
-   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=bf9f00&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh+who+am+I+kiddin'%E2%80%99.;%E2%80%98Of+course+I+do!%E2%80%99"/>
+ <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=ab9400&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh+who+am+I+kiddin'%E2%80%99.;%E2%80%98Of+course+I+do!%E2%80%99"/>
 </p>
 
    <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436268026034131086/Untitled152_20251107081339_edit_558026038823185.png?ex=690efc55&is=690daad5&hm=25de81a911aca73b1471d35d0bd7a27222d34585b9d09db8dd8dbeac6821ce41&" width="950" height="750"></a>
