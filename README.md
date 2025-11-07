@@ -47,7 +47,7 @@
     $${\color{#6f3701}GET \space COPIED. \space IT'S \space HAPPENED \space A \space LOT \space LATELY}$$ <br>
     $${\color{#583107}AND \space I'M \space STARTING \space TO \space DISLIKE \space IT.}$$ <br>
 
-  <br>  <br>  <br>  <br>
+  <br>
 
   <p align="center">   
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#b6990a}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#b6990a}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
