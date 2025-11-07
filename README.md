@@ -32,7 +32,7 @@
 
   <br>  <br>  <br>  <br>
 
-<a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> \space <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> \space <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
+<a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#91ae42}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#91ae42}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
            
 <br>
 
