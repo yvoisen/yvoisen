@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436262789390925854/Untitled150_20251107074745.png?ex=690ef775&is=690da5f5&hm=23c9aa9a070f2c8c8e71b8253eeab7ba3b0bab54afd0f86a2c1afdcd71427a91&" width="950" height="900"></a>
+<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436262789390925854/Untitled150_20251107074745.png?ex=690ef775&is=690da5f5&hm=23c9aa9a070f2c8c8e71b8253eeab7ba3b0bab54afd0f86a2c1afdcd71427a91&" width="950" height="800"></a>
 
    <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=690ead3c&is=690d5bbc&hm=8dc78e8f3212aee37f4db302066943a61ab2b261b21579ea4a371b5e2ae5b4a2&" align="right" width="63%" height="55%"></a>
 
@@ -52,4 +52,4 @@
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
  <br>
 
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436262789957287946/Untitled152_20251107075526.png?ex=690ef775&is=690da5f5&hm=a4e8b66deb2c541fc7d249f3d76d01d7fa00fbcce814364feb2046583c1446f0&" width="950" height="900"></a>
+   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436262789957287946/Untitled152_20251107075526.png?ex=690ef775&is=690da5f5&hm=a4e8b66deb2c541fc7d249f3d76d01d7fa00fbcce814364feb2046583c1446f0&" width="950" height="800"></a>
