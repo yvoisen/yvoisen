@@ -18,7 +18,7 @@
 
  <p align="center">          
    $${\color{#b19305}i'm \space offtab \space majority \space of \space the \space time,}$$ <br>
-    $${\color{#ac6e00}so \space whisper \space to \space grab \space my \space attention}$$ <br>
+    $${\color{#ac6e00}so \space whisper \space me \space to \space grab \space my \space attention}$$ <br>
 
  <br>
  
