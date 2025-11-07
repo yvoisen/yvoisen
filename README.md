@@ -22,7 +22,7 @@
 
  <p align="center">          
    $${\color{#b19305}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#ac6e00}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION}$$ <br>
+    $${\color{#ac6e00}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
 
  <br>
  
