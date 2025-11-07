@@ -11,9 +11,10 @@
   <br>  <br>  <br>  <br>
 
  <p align="center">          
-   $${\color{#64ae39}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
-    $${\color{#618d20}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
+   $${\color{#91ae42}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
+    $${\color{#84912d}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
 
+ <br>
            
 <br>
 
@@ -22,13 +23,18 @@
  <br> 
 
  <p align="center">          
-   $${\color{#b19305}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#ac6e00}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
+   $${\color{#64ad3a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+    $${\color{#618621}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
 
  <br>
  
+ <p align="center">          
+   $${\color{#b6990a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
+    $${\color{#b18500}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
+
+ <br>
 
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436192327877001287/image_2_edit_544129172686243.png?ex=690eb5d6&is=690d6456&hm=d36b7bce4d508a2dbf7dedeb233818c95564192c6135541db423c6bd92d7cd17&" width="950" height="auto"></a>
 
-                                  [ata](https://yvoisen.atabook.org)               [straw](https://yvoisen.straw.page)               [comms](https://yvoisencomms.straw.page)
+                                  [𝐀𝐓𝐀](https://yvoisen.atabook.org)               [𝐒𝐓𝐑𝐀𝐖](https://yvoisen.straw.page)               [𝐂𝐎𝐌𝐌𝐒](https://yvoisencomms.straw.page)
