@@ -12,9 +12,11 @@
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=690ead3c&is=690d5bbc&hm=8dc78e8f3212aee37f4db302066943a61ab2b261b21579ea4a371b5e2ae5b4a2&" align="right" width="55%"></a>
 
 <p align="center">     
- ${\textsf{\color{#a94920}@aesvic's alt, i spam follow !}}$ <br>
-   ${\textsf{\color{#a94920}if this bothers you, feel free to block .}}$ <br>
-   ${\textsf{\color{#a94920}i don't check profiles, don't dt me .}}$ <br></p>
+ $${\color{#a93f79}more \space info \space will \space be \space on \space my \space main \space account, \space @yvoisen}$$
+
+$${\color{#8e0640}i'm \space NOT \space apart \space of \space the \space hb/hh \space fandom, \space i \space only \space like \space one \space singular \space character.}$$
+
+$${\color{#63062e}i \space do \space not \space check \space who \space i \space follow, \space lmk \space if \space i \space follow \space anyone \space problematic. \space either \space on \space my \space straw \space or \space ata.}$$
  <br>
 
 
