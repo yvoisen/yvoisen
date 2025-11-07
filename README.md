@@ -19,7 +19,7 @@
 <br>
 
            
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=a07200&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=b38c01&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
  <br> 
 
  <p align="center">          
@@ -27,13 +27,19 @@
     $${\color{#61851f}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
 
  <br>
- 
+            
+<br>
+
+        
  <p align="center">          
    $${\color{#b6990a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
     $${\color{#af7900}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
 
  <br>
+           
+<br>
 
+        
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436192327877001287/image_2_edit_544129172686243.png?ex=690eb5d6&is=690d6456&hm=d36b7bce4d508a2dbf7dedeb233818c95564192c6135541db423c6bd92d7cd17&" width="950" height="auto"></a>
 
