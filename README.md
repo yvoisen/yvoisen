@@ -19,7 +19,7 @@
 
   <br>  <br>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=b38c01&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=b38c01&style=for-the-badge&label=+++𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+++&base=4274"></img></p>
  <br> 
 
 
