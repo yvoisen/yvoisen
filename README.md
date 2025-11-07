@@ -5,7 +5,7 @@
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=690ead3c&is=690d5bbc&hm=8dc78e8f3212aee37f4db302066943a61ab2b261b21579ea4a371b5e2ae5b4a2&" align="right" width="55%"></a>
 
-  <br>  <br>  <br>  <br>
+
 
   <br>  <br>  <br>  <br>
 
