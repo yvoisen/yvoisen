@@ -10,17 +10,19 @@
 
   <br>  <br>  <br>  <br>
 
- <p align="center">    
- $${\color{#64ae39}refer \space to \space me \space as \space tempest \space or \space yvonne}$$ <br>
+ <p align="center">          
+   $${\color{#64ae39}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
+    $${\color{#ac6e00}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
+
+ <br>
 
 
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=68390e&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=a07200&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
  <br> 
 
  <p align="center">          
-   $${\color{#b19305}i'm \space offtab \space majority \space of \space the \space time,}$$ <br>
-    $${\color{#ac6e00}so \space whisper \space me \space to \space grab \space my \space attention}$$ <br>
+   $${\color{#b19305}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+    $${\color{#ac6e00}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION}$$ <br>
 
  <br>
  
