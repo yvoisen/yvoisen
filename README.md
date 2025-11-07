@@ -40,4 +40,10 @@
 
  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436192327877001287/image_2_edit_544129172686243.png?ex=690eb5d6&is=690d6456&hm=d36b7bce4d508a2dbf7dedeb233818c95564192c6135541db423c6bd92d7cd17&" width="950" height="auto"></a>
 
-                                  [𝐀𝐓𝐀](https://yvoisen.atabook.org)               [𝐒𝐓𝐑𝐀𝐖](https://yvoisen.straw.page)               [𝐂𝐎𝐌𝐌𝐒](https://yvoisencomms.straw.page)
+
+</h5>
+
+ <br>
+    </td>
+  </tr>
+</table>
