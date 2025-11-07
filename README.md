@@ -13,22 +13,20 @@
  <p align="center">          
    $${\color{#91ae42}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
     $${\color{#828e2f}OR \space WHATEVER \space NICKNAME, \space HONESTLY.}$$ <br>
-
  <br>
-           
-<br>
 
-           
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=b38c01&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
+
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=b38c01&style=for-the-badge&label=.+.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.+.&base=4274"></img></p>
  <br> 
 
- <p align="center">          
+
+  <p align="center">          
    $${\color{#64ad3a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
     $${\color{#61851f}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
-
  <br>
-            
-<br>
+
+
+  <br>
 
         
  <p align="center">          
