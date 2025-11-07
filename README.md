@@ -13,7 +13,8 @@
 
    <p align="center">          
    $${\color{#64ad3a}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
-    $${\color{#618621}FRIENDS \space CAN \space CALL \space ME \space WHATEVER \space NICKNAME.}$$ <br>
+    $${\color{#618621}IF \space WE'RE \space CLOSE \space I \space DON'T \space CARE}$$ <br>
+    $${\color{#61771c}WHAT \space YOU \space CALL \space ME.}$$ <br>
  <br>
 
   <br>  <br>
