@@ -19,8 +19,8 @@
   <br>
 
    <p align="center">          
-   $${\color{#64ad3a}REFER \space TO \space ME \space AS \space TEMPEST \space OR \space YVONNE.}$$ <br>
-    $${\color{#618621}IF \space WE'RE \space CLOSE \space I \space DON'T \space CARE \space ABOUT}$$ <br>
+   $${\color{#64ad3a}REFER \space TO \space ME \space AS \space TEMPEST \space OR}$$ <br>
+    $${\color{#618621}YVONNE. \space IF \space WE'RE \space CLOSE \space I \space DON'T \space CARE \space ABOUT}$$ <br>
     $${\color{#476315}WHATEVER \space YOU'LL \space CALL \space ME.}$$ <br>
  <br>
 
