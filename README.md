@@ -14,15 +14,11 @@
 <p align="center">     
  $${\color{#a93f79}more \space info \space will \space be \space on \space my \space main \space account, \space @yvoisen}$$
 
-$${\color{#8e0640}i'm \space NOT \space apart \space of \space the \space hb/hh \space fandom, \space i \space only \space like \space one \space singular \space character.}$$
-
-$${\color{#63062e}i \space do \space not \space check \space who \space i \space follow, \space lmk \space if \space i \space follow \space anyone \space problematic. \space either \space on \space my \space straw \space or \space ata.}$$
- <br>
-
-
   <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=64ae39&style=for-the-badge&label=.+𝗽+𝗵+𝗶+𝗴+𝗵+𝘁+𝗲+𝗿+𝘀+.&base=4274"></img></p>
  <br> 
 
+$${\color{#8e0640}i'm \space NOT \space apart \space of \space the \space hb/hh \space fandom, \space i \space only \space like \space one \space singular \space character.}$$
+<br>
 
   
 
