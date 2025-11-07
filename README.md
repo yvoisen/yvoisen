@@ -37,6 +37,13 @@
     $${\color{#af7900}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
 
 
+  <br>
+
+   <p align="center">          
+   $${\color{#9b4f00}WOULD \space BE \space APPRECIATED \space IF \space MY \space SKINS \space DON'T}$$ <br>
+    $${\color{#714000}GET \space COPIED. \space IT'S \space HAPPENED \space A \space LOT \space LATELY}$$ <br>
+    $${\color{#5e2c09}AND \space I'M \space STARTING \space TO \space DISLIKE \space IT.}$$ <br>
+
   <br>  <br>  <br>  <br>
 
   <p align="center">   
