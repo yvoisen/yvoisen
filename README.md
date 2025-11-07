@@ -38,19 +38,16 @@
    <p align="center">          
    $${\color{#9b4f00}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
     $${\color{#6f3701}USUALLY \space FOUND \space AT \space SPAWN, \space ROBLOX, \space OR \space DW \space AREA.}$$ <br>
-
-
-  <br>  <br>  <br>  <br>
-
- <p align="center">   
-   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
+    
+   <p align="center">          
+   $${\color{#583107}✦}$$ <br>
  <br>
 
 
   <br>
 
-   <p align="center">          
-   $${\color{#583107}✦}$$ <br>
+   <p align="center">   
+   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisencomms.straw.page"> 𝐂𝐎𝐌𝐌𝐒</a>
  <br>
 
 
