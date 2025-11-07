@@ -13,7 +13,7 @@
 
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=64ae39&style=for-the-badge&label=𝐏+𝐇+𝐈+𝐆+𝐇+𝐓+𝐄+𝐑+𝐒&base=4274"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=64ae39&style=for-the-badge&label=.+𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+.&base=4274"></img></p>
  <br> 
 
  <p align="center">          
