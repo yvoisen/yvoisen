@@ -21,7 +21,7 @@
    <p align="center">          
    $${\color{#85ae39}REFER \space TO \space ME \space AS \space TEMPEST.}$$ <br>
     $${\color{#64ae39}IF \space WE'RE \space CLOSE \space I'M\space NOT \space BOTHERED}$$ <br>
-    $${\color{#599437}ABOUT \space WHAT \space YOU \space CALL \space ME.}$$ <br>
+    $${\color{#508d2c}ABOUT \space WHAT \space YOU \space CALL \space ME.}$$ <br>
  <br>
 
   <br>  <br>
