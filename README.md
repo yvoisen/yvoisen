@@ -5,9 +5,9 @@
          <br>
 
 
-<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217744011274/Untitled153_20251107081238_edit_563125022254177.png?ex=691b9740&is=691a45c0&hm=7f2d070b374dab61a088afdc4e7c70c8fd75212f7ab69e3fffe19449f4cbb7b0&" width="950" height="900"></a>
+<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217744011274/Untitled153_20251107081238_edit_563125022254177.png?ex=691f8bc0&is=691e3a40&hm=197eafe36201176ca3969b891b4e94ccd7286c3d042d9cd71724125b41e298b7&" width="950" height="900"></a>
 
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=691b337c&is=6919e1fc&hm=166d17e733d5b97289aa63c0a082105d828ab3d882af30708a5975ffbec4d0ea&" align="right" width="60%"></a>
+   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=691fd0bc&is=691e7f3c&hm=caacc11727d8554f8472325b78c3b090dedd3d772cf47184f6f51b3e0bba2795&" align="right" width="60%"></a>
 
   <br>
 
@@ -62,7 +62,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=ab9400&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh+who+am+I+kiddin'%E2%80%99.;%E2%80%98Of+course+I+do!%E2%80%99"/>
 </p>
 
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217329037362/Untitled152_20251107081339_edit_558026038823185.png?ex=691b9740&is=691a45c0&hm=12a0bafc7679a6590ff74771a5c56c5ec19b51ca95537929b47fddfd603c567b&" width="950" height="750"></a>
+   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217329037362/Untitled152_20251107081339_edit_558026038823185.png?ex=691f8bc0&is=691e3a40&hm=139b342660c482446c5c34c4a89bc2ca306042b230a58d3364a785349e2c46f7&" width="950" height="750"></a>
 
 
 </h5>
