@@ -62,7 +62,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=ab9400&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh+who+am+I+kiddin'%E2%80%99.;%E2%80%98Of+course+I+do!%E2%80%99"/>
 </p>
 
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217329037362/Untitled152_20251107081339_edit_558026038823185.png?ex=693c8cc0&is=693b3b40&hm=0b6b8d9779baa1449cf81b29b80b606b8d8c4cdcaa0a6e4098416325b5db564d" width="950" height="750"></a>
+   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217329037362/Untitled152_20251107081339_edit_558026038823185.png?ex=693c8cc0&is=693b3b40&hm=0b6b8d9779baa1449cf81b29b80b606b8d8c4cdcaa0a6e4098416325b5db564d&" width="950" height="750"></a>
 
 
 </h5>
