@@ -19,16 +19,16 @@
  <br>
       
    <p align="center">          
-   $${\color{#c44336}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#b51c00}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
+   $${\color{#d86e64}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+    $${\color{#ba2930}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
  <br>
 
 
   <br>
 
    <p align="center">          
-   $${\color{#ac272a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#812118}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
+   $${\color{#a5232a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
+    $${\color{#85211b}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
     
    <p align="center">          
    $${\color{#87201e}✦}$$ <br>
