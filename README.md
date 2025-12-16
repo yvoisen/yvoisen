@@ -11,7 +11,7 @@
 
   <br>
 
-                                      ![](https://cdn.discordapp.com/attachments/934596480310853685/1450410727759282246/Untitled168_20251216084455-removebg-preview.png?ex=69426fc0&is=69411e40&hm=18f828f799c70cb42a71508256c6a31edc9086e7d0cc073dc0492886f4529ac3&=&format=webp&quality=lossless&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1450410727759282246/Untitled168_20251216084455-removebg-preview.png?ex=69426fc0&is=69411e40&hm=18f828f799c70cb42a71508256c6a31edc9086e7d0cc073dc0492886f4529ac3&=&format=webp&quality=lossless&width=500&height=500)
 
 
  <p align="center">          
