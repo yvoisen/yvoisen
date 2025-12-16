@@ -28,7 +28,7 @@
 
    <p align="center">          
    $${\color{#a5232a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#85211b}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
+    $${\color{#87151b}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
     
    <p align="center">          
    $${\color{#87201e}✦}$$ <br>
