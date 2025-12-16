@@ -56,7 +56,7 @@
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#87201e}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
  <br>
    <p align="center">          
-   $${\color{#d86e64}more　links　coming　eventually.}$$ <br>
+   $${\color{#730d12}more　links　coming　eventually.}$$ <br>
  <br>
 
 
