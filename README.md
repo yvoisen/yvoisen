@@ -3,25 +3,25 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=6c0b0e&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=4e0409&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
  <br> 
 
 
   <br>
  <p align="center">          
-   $${\color{#ba1e26}✦}$$ <br>
+   $${\color{#8c0e17}✦}$$ <br>
  <br>
 
 ![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=6942a0d5&is=69414f55&hm=1ab040627972617da474677bd412ba810aecae0be2955d11ac799fe4f6d34c19&=&format=png&width=500&height=500)
 
 
  <p align="center">          
-   $${\color{#ba1e26}✦}$$ <br>
+   $${\color{#8c0e17}✦}$$ <br>
  <br>
       
    <p align="center">          
-   $${\color{#dc6258}offtab　majority　of　the　time,　so　whisper　to　interact.}$$ <br>
-    $${\color{#ba1e26}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
+   $${\color{#b84446}offtab　majority　of　the　time,　so　whisper　to　interact.}$$ <br>
+    $${\color{#8c0e17}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
  <br>
 
   <br>
@@ -31,11 +31,11 @@
 
 
    <p align="center">          
-   $${\color{#a2191d}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
-    $${\color{#53080a}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
+   $${\color{#74070e}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
+    $${\color{#4e0409}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
     
    <p align="center">          
-   $${\color{#ba1e26}✦}$$ <br>
+   $${\color{#8c0e17}✦}$$ <br>
  <br>
 
 
@@ -46,7 +46,7 @@
 </p>
 
    <p align="center">          
-   $${\color{#ba1e26}✦}$$ <br>
+   $${\color{#8c0e17}✦}$$ <br>
  <br>
   <br>
 
@@ -56,11 +56,11 @@
 <br>
      
    <p align="center">          
-   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#ba1e26}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> .
+   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#8c0e17}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> .
  <br>
 
    <p align="center">          
-   $${\color{#6c0b0e}more　links　coming　eventually.}$$ <br>
+   $${\color{#4e0409}more　links　coming　eventually.}$$ <br>
  <br>
 
 
