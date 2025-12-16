@@ -54,9 +54,10 @@
    <p align="center"> 
 —————————————　✦　—————————————
 <br>
-
-
-　　　　　　　　　　　　　　　　　　　　　　　 　　　. <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#ba1e26}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> .
+     
+   <p align="center">          
+   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#ba1e26}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a> .
+ <br>
 
    <p align="center">          
    $${\color{#6c0b0e}more　links　coming　eventually.}$$ <br>
