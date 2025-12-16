@@ -50,7 +50,9 @@
    <p align="center">   
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#87201e}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
  <br>
-
+   <p align="center">          
+   $${\color{#87201e}more　links　coming　eventually.}$$ <br>
+ <br>
 
 
 </h5>
