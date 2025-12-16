@@ -42,7 +42,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=730d12&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
-
+   <p align="center">          
+   $${\color{#87201e}✦}$$ <br>
+ <br>
   <br>
 
 
