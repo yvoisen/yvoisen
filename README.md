@@ -29,7 +29,7 @@
 
    <p align="center">          
    $${\color{#a2191d}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
-    $${\color{#6c0b0e}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
+    $${\color{#53080a}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#dc6258}✦}$$ <br>
