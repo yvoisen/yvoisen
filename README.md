@@ -2,15 +2,15 @@
 
   <br>
 
- <p align="center">          
-   $${\color{#ba1e26}✦}$$ <br>
- <br>
+
   <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=6c0b0e&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
  <br> 
 
 
   <br>
-
+ <p align="center">          
+   $${\color{#ba1e26}✦}$$ <br>
+ <br>
 ![](https://cdn.discordapp.com/attachments/934596480310853685/1450451775642665131/IMG_20251216_113722.png?ex=694295fb&is=6941447b&hm=bc3e871285f033ce9bfb92e3529d64b205e257e8596218bcfa0619a0643e8ad7&=&format=png&width=500&height=500)
 
 
