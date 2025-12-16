@@ -5,7 +5,7 @@
          <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=d86e64&labelcolor=730d12&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
+  <p align="center"><img src="https://hits.sh/github.com/yvoisen&color=d86e64&labelcolor=730d12&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
  <br> 
 
 
@@ -51,7 +51,7 @@
    <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#87201e}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
  <br>
    <p align="center">          
-   $${\color{#87201e}more　links　coming　eventually.}$$ <br>
+   $${\color{#d86e64}more　links　coming　eventually.}$$ <br>
  <br>
 
 
