@@ -11,36 +11,24 @@
 
   <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1450426492369506475/Untitled168_20251216095647.png?ex=69427e6f&is=69412cef&hm=77d4be3e2d89a52c386ee43c27fc1b51b3d8d644287804a1f7a83645ea7f7301&=&format=webp&quality=lossless&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1450430640712581141/Untitled168_20251216101311.png?ex=6942824c&is=694130cc&hm=dc85ff5c9523219132a951af38d68597c74e6756bcac684ff3de0e63be84b81f&=&format=webp&quality=lossless&width=500&height=500)
 
 
  <p align="center">          
    $${\color{#87201e}✦}$$ <br>
  <br>
-
-
-  <br>
-
+      
    <p align="center">          
-   $${\color{#85ae39}REFER \space TO \space ME \space AS \space TEMPEST.}$$ <br>
-    $${\color{#64ae39}IF \space WE'RE \space CLOSE \space I'M\space NOT \space BOTHERED}$$ <br>
-    $${\color{#508d2c}ABOUT \space WHAT \space YOU \space CALL \space ME.}$$ <br>
- <br>
-
-  <br>  <br>
-
-
-   <p align="center">          
-   $${\color{#b6990a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#af7900}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
+   $${\color{#c44336}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+    $${\color{#b51c00}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
  <br>
 
 
   <br>
 
    <p align="center">          
-   $${\color{#9b4f00}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#6f3701}USUALLY \space AT \space SPAWN, \space RBLX, \space OR \space BAKERY.}$$ <br>
+   $${\color{#ac272a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
+    $${\color{#812118}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
     
    <p align="center">          
    $${\color{#87201e}✦}$$ <br>
