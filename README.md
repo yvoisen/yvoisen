@@ -5,7 +5,7 @@
          <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=d86e64&labelcolor=730d12&style=for-the-badge&label=+++.+++𝐏𝐎𝐈𝐒𝐎𝐍+++.+++&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=d86e64&labelcolor=730d12&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
  <br> 
 
 
@@ -19,7 +19,7 @@
  <br>
       
    <p align="center">          
-   $${\color{#d86e64}I \space AM \space OFFTAB \space OR \space AFK \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+   $${\color{#d86e64}offtab　majority　of　the　time,　so　whisper　to　interact.}$$ <br>
     $${\color{#ba2930}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
  <br>
 
@@ -27,8 +27,8 @@
   <br>
 
    <p align="center">          
-   $${\color{#a5232a}C \space + \space H \space FREELY, \space EVEN \space IF \space NOT \space IN \space MY \space NAME.}$$ <br>
-    $${\color{#730d12}USUALLY \space SAT \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
+   $${\color{#a5232a}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
+    $${\color{#730d12}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#87201e}✦}$$ <br>
