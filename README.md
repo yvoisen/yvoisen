@@ -13,7 +13,7 @@
 
 
  <p align="center">          
-   $${\color{#dc6258}✦}$$ <br>
+   $${\color{#ba1e26}✦}$$ <br>
  <br>
       
    <p align="center">          
@@ -32,7 +32,7 @@
     $${\color{#53080a}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
     
    <p align="center">          
-   $${\color{#dc6258}✦}$$ <br>
+   $${\color{#ba1e26}✦}$$ <br>
  <br>
 
 
@@ -43,7 +43,7 @@
 </p>
 
    <p align="center">          
-   $${\color{#dc6258}✦}$$ <br>
+   $${\color{#ba1e26}✦}$$ <br>
  <br>
   <br>
 
@@ -53,7 +53,7 @@
 <br>
 
    <p align="center">   
-   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#dc6258}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
+   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#ba1e26}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
  <br>
    <p align="center">          
    $${\color{#6c0b0e}more　links　coming　eventually.}$$ <br>
