@@ -43,7 +43,6 @@
 </p>
 
   <br>
-
    <p align="center">          
    $${\color{#87201e}✦}$$ <br>
  <br>
