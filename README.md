@@ -5,14 +5,17 @@
          <br>
 
 
-<img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217744011274/Untitled153_20251107081238_edit_563125022254177.png?ex=69389840&is=693746c0&hm=ebd907b51e3beaf91a9c3689359702f1d2a510bdc9b7c198984be1c4224875a8&" width="950" height="900"></a>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=87201e&style=for-the-badge&label=+++.+++𝐏𝐎𝐈𝐒𝐎𝐍+++.+++&base=4274"></img></p>
+ <br> 
 
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436183091743031360/IMG_20251107_023523_edit_541784419126184.png?ex=6938dd3c&is=69378bbc&hm=a1e43c5111d6a2d50b08549555524893885c0126a49097c68044006076d35c96&" align="right" width="60%"></a>
 
   <br>
 
+                                      ![](https://cdn.discordapp.com/attachments/934596480310853685/1450410727759282246/Untitled168_20251216084455-removebg-preview.png?ex=69426fc0&is=69411e40&hm=18f828f799c70cb42a71508256c6a31edc9086e7d0cc073dc0492886f4529ac3&=&format=webp&quality=lossless&width=500&height=500)
+
+
  <p align="center">          
-   $${\color{#828e2f}✦}$$ <br>
+   $${\color{#87201e}✦}$$ <br>
  <br>
 
 
@@ -26,11 +29,6 @@
 
   <br>  <br>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=4c9333&style=for-the-badge&label=+++.+++𝐏𝐇𝐈𝐆𝐇𝐓𝐄𝐑𝐒+++.+++&base=4274"></img></p>
- <br> 
-
-
-  <br>
 
    <p align="center">          
    $${\color{#b6990a}I \space AM \space OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
@@ -45,7 +43,7 @@
     $${\color{#6f3701}USUALLY \space AT \space SPAWN, \space RBLX, \space OR \space BAKERY.}$$ <br>
     
    <p align="center">          
-   $${\color{#583107}✦}$$ <br>
+   $${\color{#87201e}✦}$$ <br>
  <br>
 
 
@@ -59,10 +57,8 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=ab9400&center=true&width=435&lines=%E2%80%98Do+I+look+good?%E2%80%99'.;%E2%80%98Oh+who+am+I+kiddin'%E2%80%99.;%E2%80%98Of+course+I+do!%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Seaweed+Script&size=25&duration=2500&pause=1000&color=87201e&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99'.;%E2%80%98the+world+is+cruel,%E2%80%99.;%E2%80%98but+i+still+love+you.%E2%80%99"/>
 </p>
-
-   <img src="https://cdn.discordapp.com/attachments/934596480310853685/1436290217329037362/Untitled152_20251107081339_edit_558026038823185.png?ex=69408140&is=693f2fc0&hm=aff6deca375452a5c0f820b724ff6ae3e33cc9c0399bbd5e20e36a44ad4a3ecc&" width="950" height="750"></a>
 
 
 </h5>
