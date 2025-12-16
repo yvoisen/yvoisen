@@ -28,7 +28,7 @@
 
    <p align="center">          
    $${\color{#a5232a}C \space + \space H \space FREELY, \space I \space DON'T \space MIND.}$$ <br>
-    $${\color{#87151b}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
+    $${\color{#730d12}USUALLY \space AT \space BAKERY, \space RBLX, \space OR \space SPAWN.}$$ <br>
     
    <p align="center">          
    $${\color{#87201e}✦}$$ <br>
@@ -38,7 +38,7 @@
   <br>
 
    <p align="center">   
-   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#6f3701}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
+   <a href="https://yvoisen.atabook.org"> 𝐀𝐓𝐀</a> $${\color{#87201e}✦}$$ <a href="https://yvoisen.straw.page"> 𝐒𝐓𝐑𝐀𝐖</a>
  <br>
 
 
