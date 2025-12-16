@@ -20,7 +20,7 @@
       
    <p align="center">          
    $${\color{#d86e64}I \space AM \space OFFTAB \space OR \space AFK \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#ba2930}SO \space WHISPER \space ME \space TO \space GRAB \space MY \space ATTENTION.}$$ <br>
+    $${\color{#ba2930}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
  <br>
 
 
