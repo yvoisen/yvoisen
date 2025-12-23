@@ -12,7 +12,7 @@
    $${\color{#8c0e17}✦}$$ <br>
  <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=69493855&is=6947e6d5&hm=e9fb8e580309e1ecae19c96ec3d9ff4650753f2ec88c9c831e7f1a0d958ccce2&=&format=png&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=694bdb55&is=694a89d5&hm=57c8f94494e9e4e90dbfddff1a85f6937d0a8891c2c81c2f0650f2f6fb2b7fb2&=&format=png&width=500&height=500)
 
 
  <p align="center">          
