@@ -12,7 +12,7 @@
    $${\color{#8c0e17}✦}$$ <br>
  <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=694fcfd5&is=694e7e55&hm=06650ab5c68f82f5c98a5e975ceafe0d07e4043e86a518583b278da055ce32da&=&format=png&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=69512155&is=694fcfd5&hm=f42dfdc007a1900c7d76c7ac24127788f08b032c5a28148afb6247c11fee6622&=&format=png&width=500&height=500)
 
 
  <p align="center">          
@@ -31,8 +31,8 @@
 
 
    <p align="center">          
-   $${\color{#74070e}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
-    $${\color{#4e0409}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
+   $${\color{#4e0409}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
+    $${\color{#3c0307}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#8c0e17}✦}$$ <br>
@@ -42,7 +42,7 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=4e0409&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=3c0307&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
    <p align="center">          
@@ -60,7 +60,7 @@
 <br>
 
    <p align="center">          
-   $${\color{#4e0409}more　links　coming　eventually.}$$ <br>
+   $${\color{#3c0307}more　links　coming　eventually.}$$ <br>
  <br>
 
 
