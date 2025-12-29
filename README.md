@@ -63,6 +63,12 @@
    $${\color{#300205}more　links　coming　eventually.}$$ <br>
  <br>
 
+ <br>  <br>
+ 
+ 
+   <p align="center">          
+   $${\color{#300205}i　genuinely　need　more　friends　that　talk　to　me.　ivebeenfeelingsolonelylately　ihateitihateit.}$$ <br>
+ <br>
 
 </h5>
 
