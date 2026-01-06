@@ -21,7 +21,7 @@
       
    <p align="center">          
    $${\color{#b84446}offtab　majority　of　the　time,　so　whisper　to　interact.}$$ <br>
-    $${\color{#8c0e17}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
+    $${\color{#99121c}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
  <br>
 
   <br>
@@ -31,8 +31,8 @@
 
 
    <p align="center">          
-   $${\color{#4e0409}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
-    $${\color{#300205}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
+   $${\color{#69080f}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
+    $${\color{#45060a}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#8c0e17}✦}$$ <br>
@@ -42,7 +42,7 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=4e0409&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=69080f&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
    <p align="center">          
@@ -60,7 +60,7 @@
 <br>
 
    <p align="center">          
-   $${\color{#300205}more　links　coming　eventually.}$$ <br>
+   $${\color{#45060a}more　links　coming　eventually.}$$ <br>
  <br>
 
 </h5>
