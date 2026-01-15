@@ -35,7 +35,7 @@
    $${\color{#ab3d3f}✦}$$ <br>
  <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=69659095&is=69643f15&hm=a644d66633aa2aec6c750f58dcf9092cc115fe6e1a28bdd2a40cba5ed92cf444&=&format=png&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=696a2dd5&is=6968dc55&hm=1075ec3accecb694515fe37782f78e04811e7f4659934229ac59ad947c044b84&=&format=png&width=500&height=500)
 
 
  <p align="center">          
