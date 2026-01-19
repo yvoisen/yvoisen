@@ -26,7 +26,7 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=45060a&style=for-the-badge&label=_+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++_&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=45060a&style=for-the-badge&label=_+++._POISON_.+++_&base=4274"></img></p>
  <br> 
 
 
