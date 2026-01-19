@@ -26,7 +26,7 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=45060a&style=for-the-badge&label=+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=45060a&style=for-the-badge&label=_+++.　𝐏𝐎𝐈𝐒𝐎𝐍　.+++_&base=4274"></img></p>
  <br> 
 
 
@@ -44,7 +44,7 @@
       
    <p align="center">          
    $${\color{#45060a}offtab　\color{#5d080e} majority　\color{#750911} of　\color{#7e0b14} the　\color{#8c0f18} time,　\color{#99121c} so　\color{#9e1f26} whisper　\color{#a52e33} to　\color{#ab3d3f} interact.}$$ <br>
-    $${\color{#99121c}iwc　at　all　times,　my　humour　is　not　for　everyone.}$$ <br>
+    $${\color{#390205} iwc　\color{#45060a} at　\color{#5d080e} all　\color{#750911} times,　\color{#7e0b14} my　\color{#8c0f18} humour　\color{#99121c} is　\color{#9e1f26} not　\color{#a52e33} for　\color{#ab3d3f} everyone.}$$ <br>
  <br>
 
   <br>
@@ -54,8 +54,8 @@
 
 
    <p align="center">          
-   $${\color{#750911}c　+　h　freely　,　even　if　not　in　my　name.}$$ <br>
-    $${\color{#45060a}usually　sat　at　bakery　,　roblox　,　or　spawn.}$$ <br>
+   $${\color{#320003}c　+　h　\color{#390205} freely　\color{#45060a} ,　\color{#5d080e} even　\color{#750911} if　\color{#7e0b14} not　\color{#8c0f18} in　\color{#99121c} my　\color{#9e1f26} name.}$$ <br>
+    $${\color{#270002}usually　\color{#320003} sat　\color{#390205} at　color{#45060a} bakery　\color{#5d080e} ,　\color{#750911} roblox　\color{#7e0b14} ,　\color{#8c0f18} or　\color{#99121c} spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#ab3d3f}✦}$$ <br>
