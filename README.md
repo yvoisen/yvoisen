@@ -83,7 +83,7 @@
 <br>
 
    <p align="center">          
-   $${\color{#45060a}more　links　coming　eventually.}$$ <br>
+   $${\color{#45060a}more　\color{#750911} links　\color{#7e0b14} coming　\color{#99121c} eventually.}$$ <br>
  <br>
 
 </h5>
