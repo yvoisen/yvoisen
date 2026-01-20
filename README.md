@@ -55,7 +55,7 @@
 
    <p align="center">          
    $${\color{#390205} c　+　h　\color{#45060a} freely　\color{#5d080e} ,　\color{#750911} even　\color{#7e0b14} if　\color{#8c0f18} not　\color{#99121c} in　\color{#9e1f26} my　\color{#a52e33} name.}$$ <br>
-    $${\color{#390205} usually　\color{#45060a} sat　\color{#5d080e} at　\color{#750911} bakery　\color{#7e0b14} ,　\color{#8c0f18} roblox　,　\color{#99121c} or　\color{#a52e33} spawn.}$$ <br>
+    $${\color{#390205} usually　\color{#45060a} sat　\color{#5d080e} at　\color{#750911} bakery　,　\color{#7e0b14} roblox　,　\color{#8c0f18} or　\color{#99121c} spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#ab3d3f}✦}$$ <br>
