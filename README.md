@@ -35,7 +35,7 @@
    $${\color{#ab3d3f}✦}$$ <br>
  <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1450463426605355060/Untitled172_20251216122236_edit_146779682068748.png?ex=69736855&is=697216d5&hm=2ee8c2db73eba42ecc94298d3d8e5df25b19cc349baa0d33e3949c6f3d8c5a3e&=&format=png&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1465992373203898400/image.png?ex=697c70ca&is=697b1f4a&hm=cad8448a11a8d2b167612cbbd4b4f7ad311a7e9a1de461105a62a874527697e6&=&format=png&width=500&height=500)
 
 
  <p align="center">          
@@ -79,11 +79,10 @@
 <br>
      
 <p align="center">
-<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
+<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
 <br>
 
-   <p align="center">          
-   $${\color{#45060a}more　\color{#750911} links　\color{#99121c} coming　\color{#ab3d3f} eventually.}$$ <br>
+
  <br>
 
 </h5>
