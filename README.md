@@ -77,7 +77,8 @@
    <p align="center"> 
 —————————————　✦　—————————————
 <br>
-     
+
+ <br>
 <p align="center">
 <a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
 <br>
