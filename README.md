@@ -65,7 +65,7 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&duration=2500&pause=1000&color=69080f&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Bona+Nova+SC&size=22&duration=2500&pause=1000&color=69080f&center=true&width=435&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
    <p align="center">          
