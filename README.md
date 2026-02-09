@@ -54,7 +54,7 @@
    <p align="center"> 
 —————————————　✦　—————————————
 <br>
-　
+
 
    <p align="center">          
    $${\color{#540a00} c + h　\color{#601206} heavily　\color{#6c1b0b} encouraged　,　\color{#772411} even　\color{#9b3d22} if　\color{#a74628} not　\color{#b24e2e} in　\color{#be5633} my　\color{#ca5f39} name.}$$ <br>
