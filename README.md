@@ -60,7 +60,7 @@
 
    <p align="center">          
    $${\color{#540a00} c + h　\color{#601206} heavily　\color{#6c1b0b} encouraged　,　\color{#772411} even　\color{#9b3d22} if　\color{#a74628} not　\color{#b24e2e} in　\color{#be5633} my　\color{#ca5f39} name.}$$ <br>
-    $${\color{#3a0700} usually　\color{#4c1207} sat　\color{#5e1c0e} around　\color{#702715} bakery　,　\color{#8e3920} roblox　,　\color{#a04327} or　\color{#b24e2e} spawn.}$$ <br>
+    $${\color{#410b03} usually　\color{#4c1207} sat　\color{#5e1c0e} around　\color{#702715} bakery　,　\color{#8e3920} roblox　,　\color{#a04327} or　\color{#b24e2e} spawn.}$$ <br>
     
    <p align="center">          
    $${\color{#83140b}✦}$$ <br>
