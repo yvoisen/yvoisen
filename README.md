@@ -30,7 +30,7 @@
  <br> 
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=3500&pause=1000&color=540a00&center=true&width=650&lines=%E2%80%98your+love+has+got+me+going+like+you+couldn't+imagine.%E2%80%99;%E2%80%98your+love,+your+love,+your+love+love+love.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=3900&pause=1000&color=540a00&center=true&width=650&lines=%E2%80%98your+love+has+got+me+going+like+you+couldn't+imagine.%E2%80%99;%E2%80%98your+love,+your+love,+your+love+love+love.%E2%80%99"/>
 </p>
 
   <br>
