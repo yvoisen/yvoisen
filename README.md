@@ -38,7 +38,7 @@
    $${\color{#83140b}✦}$$ <br>
  <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=698ad959&is=698987d9&hm=0b5b3cf1e4d2c40c7b1a3c7d9cc57630dd36667cb4e5fde65788379d37af4e20&=&format=png&width=50&height=50)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=698ad959&is=698987d9&hm=0b5b3cf1e4d2c40c7b1a3c7d9cc57630dd36667cb4e5fde65788379d37af4e20&=&format=png&width=50%&height=50%)
 
 
  <br>
