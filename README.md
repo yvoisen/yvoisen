@@ -29,6 +29,9 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=540a00&style=for-the-badge&label=_++._POISON_.++_&base=4274"></img></p>
  <br> 
 
+   <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=540a00&center=true&width=650&lines=%E2%80%98your+love+has+got+me+going+like+you+couldn't+imagine.%E2%80%99;%E2%80%98your+love,+your+love,+your+love.%E2%80%99"/>
+</p>
 
   <br>
  <p align="center">          
