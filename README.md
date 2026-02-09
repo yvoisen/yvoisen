@@ -26,7 +26,7 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=83140b&style=for-the-badge&label=_++._POISON_.++_&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=9b3d22&style=for-the-badge&label=_++._POISON_.++_&base=4274"></img></p>
  <br> 
 
 
@@ -35,7 +35,7 @@
    $${\color{#83140b}✦}$$ <br>
  <br>
 
-![](https://files.catbox.moe/cb7lla.png=&format=png&width=500&height=500)
+![](https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=698ad959&is=698987d9&hm=0b5b3cf1e4d2c40c7b1a3c7d9cc57630dd36667cb4e5fde65788379d37af4e20&=&format=png&width=500&height=500)
 
 
  <p align="center">          
@@ -65,7 +65,7 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=69080f&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=9b3d22&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
    <p align="center">          
