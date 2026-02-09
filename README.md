@@ -26,7 +26,7 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=6c1b0b&style=for-the-badge&label=_++._POISON_.++_&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=4c1207&style=for-the-badge&label=_++._POISON_.++_&base=4274"></img></p>
  <br> 
 
 
@@ -48,9 +48,11 @@
  <br>
 
   <br>
+ <br>
    <p align="center"> 
 —————————————　✦　—————————————
 <br>
+ <br>
 
 
    <p align="center">          
@@ -65,7 +67,7 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=9b3d22&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=4c1207&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
    <p align="center">          
@@ -74,9 +76,11 @@
   <br>
 
 
+ <br>
    <p align="center"> 
 —————————————　✦　—————————————
 <br>
+ <br>
 
  <br>
 <p align="center">
