@@ -11,7 +11,7 @@
 ⠀⠀⠀⠁⢸⡏⣸⠋⣰⠏⣰⠟⢡⡴⠖⠚⠶⣤⡉⢷⡀⢳⡈⢷⡌⡿⠈⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢿⠀⡟⢰⡏⣰⠏⣰⠞⠛⢢⠈⣧⠘⡇⠈⡇⠸⠃⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠈⠃⢺⡇⢺⡄⢿⡀⠢⠜⣠⡏⢠⡏⠸⠃⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⡈⢳⣌⡙⠳⠟⢋⣴⠏⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀JUST LETTING YOU KNOW, I KNOW WHO YOU ARE FORKING MY REPOSITORY. HOPEFULLY YOU FIND WHAT YOU'RE AFTER.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⡈⢳⣌⡙⠳⠟⢋⣴⠏⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀JUST LETTING YOU KNOW, I KNOW WHO YOU ARE FORKING MY REPOSITORY. I HOPE YOU FIND WHAT YOU'RE AFTER
 ⠀⠀⠀⠀⠀⠀⠀⠀⠘⢷⣌⠻⢦⣌⣙⡛⠛⣉⣡⡴⠋⣀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢼⣤⡙⠷⣦⠌⠉⠙⠋⢉⣡⣴⠾⣋⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣦⡌⠛⠀⠀⠀⠀⠀⠀⠀⠈⠐⠚⠋⡁⠀⠀⠀⠀⠀⠀⠀
@@ -26,25 +26,25 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=45060a&style=for-the-badge&label=_+++._POISON_.+++_&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=83140b&style=for-the-badge&label=_++._POISON_.++_&base=4274"></img></p>
  <br> 
 
 
   <br>
  <p align="center">          
-   $${\color{#ab3d3f}✦}$$ <br>
+   $${\color{#83140b}✦}$$ <br>
  <br>
 
-![](https://cdn.discordapp.com/attachments/934596480310853685/1469392785257005066/image-24_edit_4168323211862.png?ex=69877e2c&is=69862cac&hm=1f4e6aa5cd7193f11cbd2dfd4ba5e63611f905e357fc7d04d98b9314d897a9e1&=&format=png&width=500&height=500)
+![](https://files.catbox.moe/cb7lla.png=&format=png&width=500&height=500)
 
 
  <p align="center">          
-   $${\color{#ab3d3f}✦}$$ <br>
+   $${\color{#83140b}✦}$$ <br>
  <br>
       
    <p align="center">          
-   $${\color{#45060a} offtab　\color{#5d080e} majority　\color{#750911} of　\color{#7e0b14} the　\color{#8c0f18} time,　\color{#99121c} so　\color{#9e1f26} whisper　\color{#a52e33} to　\color{#ab3d3f} interact.}$$ <br>
-    $${\color{#390205} iwc　\color{#45060a} at　\color{#5d080e} all　\color{#750911} times,　\color{#7e0b14} my　\color{#8c0f18} humour　\color{#99121c} is　\color{#9e1f26} not　\color{#a52e33} for　\color{#ab3d3f} everyone.}$$ <br>
+   $${\color{#83140b} offtab　\color{#8d1e12} majority　\color{#982918} of　\color{#a2341f} the　\color{#ac3e25} time,　\color{#cb5e38} so　\color{#d5683f} whisper　\color{#e07246} to　\color{#ea7d4c} interact.}$$ <br>
+    $${\color{#671105} iwc　\color{#721a0b} at　\color{#7d2211} all　\color{#882b16} times,　\color{#93341c} my　\color{#a94528} humour　\color{#b44e2e} is　\color{#bf5733} not　\color{#ca5f39} for　\color{#d5683f} everyone.}$$ <br>
  <br>
 
   <br>
@@ -54,11 +54,11 @@
 
 
    <p align="center">          
-   $${\color{#390205} c + h　\color{#45060a} heavily　\color{#5d080e} encouraged　,　\color{#750911} even　\color{#7e0b14} if　\color{#8c0f18} not　\color{#99121c} in　\color{#9e1f26} my　\color{#a52e33} name.}$$ <br>
-    $${\color{#390205} usually　\color{#45060a} sat　\color{#5d080e} at　\color{#750911} bakery　\color{#7e0b14} ,　\color{#8c0f18} roblox　,　\color{#99121c} or　\color{#9e1f26} spawn.}$$ <br>
+   $${\color{#540a00} c + h　\color{#601206} heavily　\color{#6c1b0b} encouraged　,　\color{#772411} even　\color{#9b3d22} if　\color{#a74628} not　\color{#b24e2e} in　\color{#be5633} my　\color{#ca5f39} name.}$$ <br>
+    $${\color{#3a0700} usually　\color{#4c1207} sat　\color{#5e1c0e} around　\color{#702715} bakery　,　\color{#8e3920} roblox　,　\color{#a04327} or　\color{#b24e2e} spawn.}$$ <br>
     
    <p align="center">          
-   $${\color{#ab3d3f}✦}$$ <br>
+   $${\color{#83140b}✦}$$ <br>
  <br>
 
 
@@ -69,7 +69,7 @@
 </p>
 
    <p align="center">          
-   $${\color{#ab3d3f}✦}$$ <br>
+   $${\color{#83140b}✦}$$ <br>
  <br>
   <br>
 
@@ -80,7 +80,7 @@
 
  <br>
 <p align="center">
-<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=20&duration=1&pause=7000&color=ab3d3f&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
+<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=20&duration=1&pause=7000&color=83140b&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=20&duration=1&pause=7000&color=83140b&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=20&duration=1&pause=7000&color=83140b&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
 <br>
 
 
