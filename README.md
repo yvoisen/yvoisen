@@ -30,7 +30,7 @@
  <br> 
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=3900&pause=1000&color=540a00&center=true&width=650&lines=%E2%80%98your+love+has+got+me+going+like+you+couldn't+imagine.%E2%80%99;%E2%80%98your+love,+your+love,+your+love+love+love.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=3900&pause=1000&color=540a00&center=true&width=650&lines=%E2%80%98'throw+me+to+the+wolves,'%E2%80%99;%E2%80%98'punish+me+for+your+sins.'%E2%80%99;%E2%80%98'burden+me+with+your+guilt,'%E2%80%99;%E2%80%98'so+it+will+eat+me+instead.'%E2%80%99"/>
 </p>
 
   <br>
@@ -84,7 +84,7 @@
 　
  <br>
 <p align="center">
-<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
+<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoise.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/>
 <br>
 
 
