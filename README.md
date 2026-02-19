@@ -30,7 +30,7 @@
  <br> 
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2500&pause=1000&color=540a00&center=true&width=650&lines=%E2%80%98throw+me+to+the+wolves,%E2%80%99;%E2%80%98punish+me+for+your+sins.%E2%80%99;%E2%80%98burden+me+with+your+guilt,%E2%80%99;%E2%80%98so+it+will+eat+me+instead.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2000&pause=300&color=540a00&center=true&width=650&lines=%E2%80%98throw+me+to+the+wolves,%E2%80%99;%E2%80%98punish+me+for+your+sins.%E2%80%99;%E2%80%98burden+me+with+your+guilt,%E2%80%99;%E2%80%98so+it+will+eat+me+instead.%E2%80%99"/>
 </p>
 
   <br>
