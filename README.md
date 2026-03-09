@@ -88,7 +88,7 @@
 <br>
 
 <p align="center">          
-   $${\color{#671105} pony\color{#721a0b}town　\color{#7d2211} straw\color{#882b16}page　\color{#93341c} is　\color{#a94528} out\color{#b44e2e} dated.　\color{#bf5733} too　\color{#ca5f39} lazy 2　\color{#d5683f} fix.}$$ <br>
+   $${\color{#671105} pony \color{#721a0b} town　\color{#7d2211} straw \color{#882b16} page　\color{#93341c} is　\color{#a94528} out \color{#b44e2e} dated.　\color{#bf5733} too　\color{#ca5f39} lazy　2　\color{#d5683f} fix.}$$ <br>
  <br>
 
 </h5>
