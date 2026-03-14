@@ -91,7 +91,6 @@
 
   <br>
 
-　
   
 <p align="center">          
    $${\color{#671105} pony \color{#721a0b} town　\color{#7d2211} straw \color{#882b16} page　is　out \color{#93341c} dated.　\color{#a94528} too　\color{#b44e2e} lazy　\color{#bf5733} to　\color{#ca5f39} fix　\color{#d5683f} it.}$$ <br>
