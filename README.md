@@ -84,17 +84,13 @@
 　
  <br>
 <p align="center">
-<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/> <a href="https://yvoisen.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98PT+STRAW%E2%80%99"/> <a href="https://yvoise.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98MAIN+STRAW%E2%80%99"/>
+<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://yvoise.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/> <a href="https://pronouns.cc/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98PRNS.CC%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/>
 <br>
 
    <p align="center"> 
 
   <br>
 
-  
-<p align="center">          
-   $${\color{#671105} pony \color{#721a0b} town　\color{#7d2211} straw \color{#882b16} page　is　out \color{#93341c} dated.　\color{#a94528} too　\color{#b44e2e} lazy　\color{#bf5733} to　\color{#ca5f39} fix　\color{#d5683f} it.}$$ <br>
- <br>
 
 </h5>
 
