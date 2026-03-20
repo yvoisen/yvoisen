@@ -93,9 +93,10 @@
 
 
 <p align="center">
-  <a href="https://open.spotify.com/user/313dzj3bz4gm3qx665pnqfkwa5za">
-    <img src="https://spotify-github-profile.yvoisen.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=novatorem&show_offline=false&background_color=410b03&interchange=false&profanity=false&bar_color=ea7d4c&bar_color_cover=false">
-  </a>
+<!-- Basic widget -->
+<a href="https://https://open.spotify.com/user/313dzj3bz4gm3qx665pnqfkwa5za/link">
+  <img src="https://https://open.spotify.com/user/313dzj3bz4gm3qx665pnqfkwa5za/" alt="Spotify Now Playing" width="400" />
+</a>
 
 </h5>
 
