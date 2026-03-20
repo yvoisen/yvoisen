@@ -94,7 +94,7 @@
 
 <!-- Basic widget -->
 <a href="https://open.spotify.com/user/313dzj3bz4gm3qx665pnqfkwa5za">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=novatorem&show_offline=false&background_color=83140b&interchange=false&profanity=false&bar_color=cc7cb5&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.yvoisen.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=novatorem&show_offline=false&background_color=83140b&interchange=false&profanity=false&bar_color=cc7cb5&bar_color_cover=false"/>
 </a>
 
 </h5>
