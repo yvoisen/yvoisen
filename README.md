@@ -92,13 +92,6 @@
   <br>
 
 
-<p align="center">
-<a href="https://github.com/yvoisen/Spotify-Live-Banner.git
-cd Spotify-Live-Banner/Source">
-<a href="https://https://open.spotify.com/user/313dzj3bz4gm3qx665pnqfkwa5za/link">
-  <img src="https://https://open.spotify.com/user/313dzj3bz4gm3qx665pnqfkwa5za/" alt="Spotify Now Playing" width="400" />
-</a>
-
 </h5>
 
  <br>
