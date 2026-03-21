@@ -77,7 +77,7 @@
 <br>
 
    <p align="center">
-    $${\color{#83140b}strawpage　+　prns.cc　links　on　guns.lol.　theyre　pretty　important　for　dnis　n　allat.}$$ <br>
+    $${\color{#83140b}strawpage　+　prns.cc　links　on　guns.lol.　theyre　pretty　important　for　dnis　n　extras.}$$ <br>
     $${\color{#83140b}too　lazy　to　remake　rentry　.　it's　outdated.}$$ <br>
     <br>
 
