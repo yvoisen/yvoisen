@@ -88,7 +88,7 @@
 <br>
 
    <p align="center">
-    $${\color{#83140b}strawpage　+　prns.cc　links　on　gunslol.　theyre　pretty　important　for　dnis　n　allat.}$$ <br>
+    $${\color{#83140b}strawpage　+　prns.cc　links　on　guns.lol.　theyre　pretty　important　for　dnis　n　allat.}$$ <br>
     <br>
 
   <br>
