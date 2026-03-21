@@ -34,16 +34,10 @@
 </p>
 
   <br>
- <p align="center">          
-   $${\color{#83140b}✦}$$ <br>
- <br>
 
 ![](https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=69b70399&is=69b5b219&hm=9226ed6006e2c52dda47359ecfc2a6c92167affca723332db393a5cc6633652b&=&format=png&width=500&height=500)
 
- <br>
- <p align="center">          
-   $${\color{#83140b}✦}$$ <br>
- <br>
+
 
 　
    <p align="center">          
@@ -53,18 +47,14 @@
 
   <br>
 
-   <p align="center"> 
-——————　✦　——————
-<br>
-　
+ <p align="center">          
+   $${\color{#83140b}——————　✦　——————}$$ <br>
+ <br>
 
    <p align="center">          
    $${\color{#540a00} c + h　\color{#601206} heavily　\color{#6c1b0b} encouraged　,　\color{#772411} even　\color{#9b3d22} if　\color{#a74628} not　\color{#b24e2e} in　\color{#be5633} my　\color{#ca5f39} name.}$$ <br>
     $${\color{#410b03} usually　\color{#4c1207} sat　\color{#5e1c0e} around　\color{#702715} bakery　,　\color{#8e3920} roblox　,　\color{#a04327} or　\color{#b24e2e} spawn.}$$ <br>
     
-   <p align="center">          
-   $${\color{#83140b}✦}$$ <br>
- <br>
 
 
   <br>
@@ -73,14 +63,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2500&pause=1000&color=540a00&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
 </p>
 
-   <p align="center">          
-   $${\color{#83140b}✦}$$ <br>
- <br>
   <br>
 
-   <p align="center"> 
-——————　✦　——————
-<br>
+ <p align="center">          
+   $${\color{#83140b}——————　✦　——————}$$ <br>
+ <br>
 　
  <br>
 <p align="center">
