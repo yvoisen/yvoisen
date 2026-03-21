@@ -30,7 +30,7 @@
  <br> 
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2300&pause=500&color=540a00&center=true&width=650&lines=%E2%80%98throw+me+to+the+wolves,%E2%80%99;%E2%80%98punish+me+for+your+sins.%E2%80%99;%E2%80%98burden+me+with+your+guilt,%E2%80%99;%E2%80%98so+it+will+eat+me+instead.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2300&pause=500&color=540a00&center=true&width=650&lines=%E2%80%98throw+me+to+the+wolves,%E2%80%99;%E2%80%98punish+me+for+your+sins.%E2%80%99;%E2%80%98burden+me+with+your+guilt,%E2%80%99;%E2%80%98so+it+will+eat+me+instead.%E2%80%99"/>
 </p>
 
   <br>
@@ -84,7 +84,7 @@
 　
  <br>
 <p align="center">
-<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://yvoise.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/> <a href="https://pronouns.cc/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98PRNS.CC%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/>
+<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATA%E2%80%99"/> <a href="https://yvoise.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98STRAW%E2%80%99"/> <a href="https://guns.lol/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98GUNS.LOL%E2%80%99"/> <a href="https://rentry.co/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98RENTRY%E2%80%99"/>
 <br>
 
    <p align="center"> 
