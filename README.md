@@ -79,7 +79,7 @@
 <p align="center">          
   $${\color{#d5683f}strawpage　+　prns.cc　links　on　guns.lol.　theyre　important　for　dni　n　extras.}$$ <br>
 
- <p align="center"> <sup> ${\textsf{\color{#ac3e25}too　lazy　to　remake　rentry　.　it's　outdated.}}$ </sup> </p>
+ <p align="center"> <sup> ${\textsf{\color{#ac3e25}too　lazy　to　remake　rentry　.　it's　outdated. (IM NOT IN THAT FANDOM NOR LIKE IT)}}$ </sup> </p>
  </sub> 
 
   <br>
