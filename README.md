@@ -77,7 +77,7 @@
 <br>
 
 <p align="center">          
-  $${\color{#d5683f}strawpage　+　prns.cc　links　on　guns.lol.　theyre　important　for　dni　n　extras.}$$ <br>
+  $${\color{#d5683f}strawpage　+　prns.cc　links　on　guns.lol.　theyre　important　for　dni　n　info.}$$ <br>
 
  <p align="center"> <sup> ${\textsf{\color{#ac3e25}too　lazy　to　remake　rentry　.　it's　outdated. (IM NOT IN NOR LIKE THAT FANDOM.)}}$ </sup> </p>
  </sub> 
