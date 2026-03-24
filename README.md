@@ -77,7 +77,7 @@
 <br>
 
 <p align="center">          
-  $${\color{#d5683f}READ　PRNS.CC / STRAW　ON　GUNS.LOL　BYI.　IMPORTANT　FOR　DNI　AND　INFO.}$$ <br>
+  $${\color{#d5683f}read　prns.cc / straw　on　guns.lol　byi.　important　for　dni　and　info.}$$ <br>
 
  <p align="center"> <sup> ${\textsf{\color{#ac3e25}too　lazy　to　remake　rentry　.　it's　outdated. (IM NOT IN NOR LIKE THAT FANDOM.)}}$ </sup> </p>
  </sub> 
