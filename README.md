@@ -36,7 +36,7 @@
   <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=69beec99&is=69bd9b19&hm=6d81e84f6c2e18661641847e0e64b6df111754e3a9c436f3ace03e8b1cca21cf&" width="500"/>
+  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=69ca2159&is=69c8cfd9&hm=5ceeffa899b81178faf6b585f217019abc53c76daaa8eb084ab3b65c1b56f65e&" width="500"/>
 </p>
 
 
