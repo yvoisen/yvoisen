@@ -79,7 +79,7 @@
 <p align="center">          
   $${\color{#d5683f}read　prns.cc / straw　on　guns.lol　byi.　important　for　dni　and　info.}$$ <br>
 
- <p align="center"> <sup> ${\textsf{\color{#ac3e25}too　lazy　to　remake　rentry　.　it's　outdated. (IM NOT IN NOR LIKE THAT FANDOM.)}}$ </sup> </p>
+ <p align="center"> <sup> ${\textsf{\color{#ac3e25}remaking　this　entire　github　eventually.　im　lazy　at　the　moment.}}$ </sup> </p>
  </sub> 
 
   <br>
