@@ -36,7 +36,7 @@
   <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=69ca2159&is=69c8cfd9&hm=5ceeffa899b81178faf6b585f217019abc53c76daaa8eb084ab3b65c1b56f65e&" width="500"/>
+  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=69de9099&is=69dd3f19&hm=719782e1256e82ca515a34fb6629a886baa52b9a7067cc28922163fb69150317&" width="500"/>
 </p>
 
 
@@ -79,7 +79,7 @@
 <p align="center">          
   $${\color{#d5683f}read　prns.cc / straw　on　guns.lol　byi.　important　for　dni　and　info.}$$ <br>
 
- <p align="center"> <sup> ${\textsf{\color{#ac3e25}remaking　this　entire　github　eventually.　im　lazy　at　the　moment.}}$ </sup> </p>
+ <p align="center"> <sup> ${\textsf{\color{#ac3e25}slowly　remaking　this　entire　github.　im　lazy　at　the　moment.}}$ </sup> </p>
  </sub> 
 
   <br>
