@@ -36,7 +36,7 @@
   <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/934596480310853685/1470315318542073886/Untitled167_20260209063034_edit_3110839384941.png?ex=69de9099&is=69dd3f19&hm=719782e1256e82ca515a34fb6629a886baa52b9a7067cc28922163fb69150317&" width="500"/>
+  <img src="https://file.garden/adC_TK5dkztFvB_Z/tennagraphic.madebyyvoisen.png" width="500"/>
 </p>
 
 
