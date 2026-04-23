@@ -26,67 +26,41 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=540a00&style=for-the-badge&label=_++𓈒++POISON++𓈒++_&base=4274"></img></p>
- <br> 
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=503013&style=for-the-badge&label=_+++MOBSCENE++𓈒++_&base=4274"></img></p>
+ <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2300&pause=500&color=540a00&center=true&width=650&lines=%E2%80%98throw+me+to+the+wolves,%E2%80%99;%E2%80%98punish+me+for+your+sins.%E2%80%99;%E2%80%98burden+me+with+your+guilt,%E2%80%99;%E2%80%98so+it+will+eat+me+instead.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&duration=3000&pause=1000&color=6a7734&center=true&width=650&lines=%E2%80%98it's+a+party+down-town,+we+should+go+right+now.%E2%80%99;%E2%80%98heard+it+might+go+down,+i'm+like+'how'd+that+sound?'%E2%80%99;%E2%80%98had+a+scratch+for+a+week,+and+i+couldn't+get+sleep.%E2%80%99;%E2%80%98let+'em+rage+all+night,+with+the+teenage+freaks.%E2%80%99"/>
 </p>
 
-  <br>
-
+<div align="center">
+ 
+<sub>${\text{\color{#272708} iwc　\color{#3d2c0e} at　\color{#503013} all　\color{#663519} times⠀,　\color{#6f3e1e} my　\color{#794A23} humour　\color{#745627} is　\color{#70612B} not⠀4　\color{#6a7734} everyone.}}$ <br>
+${\text{\color{#272708} i⠀may　\color{#3d2c0e} be⠀a　\color{#503013} lil　\color{#663519} mean　\color{#6f3e1e} sounding　\color{#794A23} sometimes⠀,⠀but　\color{#745627} promise⠀im　\color{#70612B} super⠀chill　\color{#6a7734} n⠀friendly.}}$ <br>
 <p align="center">
-  <img src="https://file.garden/adC_TK5dkztFvB_Z/tennagraphic.madebyyvoisen.png" width="500"/>
+  <img src="https://file.garden/adC_TK5dkztFvB_Z/yellowaltgraphic.madebyyvoisen.png" width="550"/>
 </p>
 
+<div align="center">
 
-
-　
-   <p align="center">          
-   $${\color{#83140b} offtab　\color{#8d1e12} majority　\color{#982918} of　\color{#a2341f} the　\color{#ac3e25} time,　\color{#cb5e38} so　\color{#d5683f} whisper　\color{#e07246} to　\color{#ea7d4c} interact.}$$ <br>
-    $${\color{#671105} iwc　\color{#721a0b} at　\color{#7d2211} all　\color{#882b16} times,　\color{#93341c} my　\color{#a94528} humour　\color{#b44e2e} is　\color{#bf5733} not　\color{#ca5f39} for　\color{#d5683f} everyone.}$$ <br>
- <br>
-
-  <br>
-
- <p align="center">          
-   $${\color{#83140b}——————　✦　——————}$$ <br>
- <br>
-
-   <p align="center">          
-   $${\color{#540a00} c + h　\color{#601206} heavily　\color{#6c1b0b} encouraged　,　\color{#772411} even　\color{#9b3d22} if　\color{#a74628} not　\color{#b24e2e} in　\color{#be5633} my　\color{#ca5f39} name.}$$ <br>
-    $${\color{#410b03} usually　\color{#4c1207} sat　\color{#5e1c0e} around　\color{#702715} bakery　,　\color{#8e3920} roblox　,　\color{#a04327} or　\color{#b24e2e} spawn.}$$ <br>
-
- <br>
-　
-  <br>
-
-   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2500&pause=1000&color=540a00&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
-</p>
-
-  <br>
-
- <p align="center">          
-   $${\color{#83140b}——————　✦　——————}$$ <br>
- <br>
-　
- <br>
-<p align="center">
-<a href="https://yvoisen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98ATABOOK%E2%80%99"/> <a href="https://guns.lol/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98GUNS.LOL%E2%80%99"/> <a href="https://pronouns.cc/yvoisen"><img src="https://readme-typing-svg.demolab.com?font=Arbutus&size=20&duration=1&pause=7000&color=4c1207&center=true&vCenter=true&width=200&height=30&lines=%E2%80%98PRNS.CC%E2%80%99"/>
+<sub>${\text{\color{#272708} c⠀+⠀h　\color{#3d2c0e} always　\color{#503013} encouraged⠀,　\color{#663519} even　\color{#6f3e1e} if　\color{#794A23} not　\color{#745627} stated　\color{#70612B} in　\color{#6a7734} name.}}$ <br>
+${\text{\color{#272708} mainly　\color{#3d2c0e} at　\color{#503013} bakery ◞　\color{#663519} mcyt ◞　\color{#6f3e1e} or　\color{#794A23} spawn⠀ノ⠀cliffs.　\color{#745627} i⠀do　\color{#70612B} occasionally　\color{#6a7734} wander.}}$ <br>
 <br>
 
-<p align="center">          
-  $${\color{#d5683f}read　prns.cc / straw　on　guns.lol　byi.　important　for　dni　and　info.}$$ <br>
-
- <p align="center"> <sup> ${\textsf{\color{#ac3e25}slowly　remaking　this　entire　github.　im　lazy　at　the　moment.}}$ </sup> </p>
- </sub> 
+   <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&duration=2500&pause=1000&color=6A7734&center=true&width=550&lines=%E2%80%98i'm+in+your+veins+like+pretty+poison.%E2%80%99;%E2%80%98the+world+is+cruel,+but+i+still+love+you.%E2%80%99"/>
+</p>
 
   <br>
 
 <p align="center">
+ <a href="https://rentry.co/vaudegoth"><img src="https://file.garden/adC_TK5dkztFvB_Z/githubrepository.yellowrentrytxt.png"/> </a>　　　<a href="https://yvoisen.atabook.org"><img src="https://file.garden/adC_TK5dkztFvB_Z/githubrepository.yellowatatxt.png"/> </a>　　　<a href="https://guns.lol/yvoisen"><img src="https://file.garden/adC_TK5dkztFvB_Z/githubrepository.yellowgunsloltxt.png"/> </a>
+</p>
+
+<br>
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=540a00&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
 </p>
