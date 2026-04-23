@@ -35,15 +35,15 @@
 
 <div align="center">
  
-<sub>${\text{\color{#272708} iwc　\color{#3d2c0e} at　\color{#503013} all　\color{#663519} times⠀,　\color{#6f3e1e} my　\color{#794A23} humour　\color{#745627} is　\color{#70612B} not⠀4　\color{#6a7734} everyone.}}$ <br>
-${\text{\color{#272708} i⠀may　\color{#3d2c0e} be⠀a　\color{#503013} lil　\color{#663519} mean　\color{#6f3e1e} sounding　\color{#794A23} sometimes⠀,⠀but　\color{#745627} promise⠀im　\color{#70612B} super⠀chill　\color{#6a7734} n⠀friendly.}}$ <br>
+<sub>${\text{\color{#272708} iwc　\color{#3d2c0e} at　\color{#503013} all　\color{#663519} times ◞　\color{#6f3e1e} my　\color{#794A23} humour　\color{#745627} is　\color{#70612B} not⠀4　\color{#6a7734} everyone.}}$ <br>
+${\text{\color{#272708} c⠀+⠀h　\color{#3d2c0e} always　\color{#503013} encouraged ◞　\color{#663519} even　\color{#6f3e1e} if　\color{#794A23} not　\color{#745627} stated　\color{#70612B} in　\color{#6a7734} name.}}$ <br>
 <p align="center">
   <img src="https://file.garden/adC_TK5dkztFvB_Z/yellowaltgraphic.madebyyvoisen.png" width="550"/>
 </p>
 
 <div align="center">
 
-<sub>${\text{\color{#272708} c⠀+⠀h　\color{#3d2c0e} always　\color{#503013} encouraged⠀,　\color{#663519} even　\color{#6f3e1e} if　\color{#794A23} not　\color{#745627} stated　\color{#70612B} in　\color{#6a7734} name.}}$ <br>
+<sub>${\text{\color{#272708} read　\color{#3d2c0e} my　\color{#503013} prns⠀.⠀cc　\color{#663519} 4　\color{#6f3e1e} basic　\color{#794A23} info ◞　\color{#745627} dni　\color{#70612B} n　\color{#6a7734} allat.}}$ <br>
 ${\text{\color{#272708} mainly　\color{#3d2c0e} at　\color{#503013} bakery ◞　\color{#663519} mcyt ◞　\color{#6f3e1e} or　\color{#794A23} spawn⠀ノ⠀cliffs.　\color{#745627} i⠀do　\color{#70612B} occasionally　\color{#6a7734} wander.}}$ <br>
 <br>
 
