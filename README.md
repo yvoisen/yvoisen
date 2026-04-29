@@ -60,7 +60,7 @@ ${\text{\color{#272708} mainly　\color{#3d2c0e} at　\color{#503013} bakery ◞
 <br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313dzj3bz4gm3qx665pnqfkwa5za&cover_image=true&theme=natemoo-re&show_offline=true&background_color=6A7734&interchange=true&profanity=false&bar_color=503013&bar_color_cover=false">
   </a>
 </p>
 </p>
