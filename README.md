@@ -44,7 +44,7 @@ ${\text{\color{#272708} c⠀+⠀h　\color{#3d2c0e} always　\color{#503013} enc
 <div align="center">
 
 <sub>${\text{\color{#272708} read　\color{#3d2c0e} my　\color{#503013} prns⠀.⠀cc　\color{#663519} 4　\color{#6f3e1e} basic　\color{#794A23} info ◞　\color{#745627} dni　\color{#70612B} n　\color{#6a7734} allat.}}$ <br>
-${\text{\color{#272708} mainly　\color{#3d2c0e} at　\color{#503013} bakery ◞　\color{#663519} mcyt ◞　\color{#6f3e1e} or　\color{#794A23} spawn⠀ノ⠀cliffs.　\color{#745627} i⠀do　\color{#70612B} occasionally　\color{#6a7734} wander.}}$ <br>
+${\text{\color{#272708} mainly　\color{#3d2c0e} at　\color{#503013} mcyt ◞　\color{#663519} bakery ◞　\color{#6f3e1e} or　\color{#794A23} spawn⠀ノ⠀cliffs.　\color{#745627} i⠀do　\color{#70612B} occasionally　\color{#6a7734} wander.}}$ <br>
 <br>
 
    <p align="center">
