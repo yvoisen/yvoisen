@@ -26,7 +26,7 @@
   <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=503013&style=for-the-badge&label=_++++哥特++++⑅݂+++ᥥ𓏼+_&base=4274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=yvoisen&color=503013&style=for-the-badge&label=_++++哥特++++⑅݂+++ᥥ𓏼+_"></img></p>
  <br>
 
    <p align="center">
