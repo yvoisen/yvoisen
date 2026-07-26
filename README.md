@@ -26,7 +26,7 @@
   <br>
 
 
-   <img src="https://file.garden/adC_TK5dkztFvB_Z/yellowaltgraphic.madebyyvoisen.png" align="left" width="47%"> 
+   <img src="https://file.garden/adC_TK5dkztFvB_Z/yellowaltgraphic.madebyyvoisen.png" align="left" width="50%"> 
   <table>
     <tr>
       <td>
