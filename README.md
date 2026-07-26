@@ -68,10 +68,10 @@ ${\text{\color{#6f3e1e} so　\color{#794A23} whisper　\color{#745627} to　\col
       <td>
 <div align="left">
  
-${\text{\color{#272708} it'sㅤaㅤ\color{#3d2c0e} partyㅤ\color{#503013} 𝘥𝘰𝘸𝘯\color{#663519} 𝘵𝘰𝘸𝘯,ㅤ\color{#6f3e1e} weㅤ\color{#794A23} shouldㅤ\color{#745627} goㅤ\color{#70612B} 𝘳͟𝘪͟𝘨͟𝘩͟𝘵͟ㅤ\color{#6a7734} 𝘯͟𝘰͟𝘸͟.}}$ <br>
+${\text{\color{#272708} it'sㅤaㅤ\color{#3d2c0e} partyㅤ\color{#503013} 𝘥𝘰𝘸𝘯\color{#663519} 𝘵𝘰𝘸𝘯,ㅤ\color{#6f3e1e} weㅤ\color{#794A23} shouldㅤ\color{#745627} goㅤ\color{#70612B} 𝘳͟𝘪͟𝘨͟𝘩͟𝘵͟ㅤ\color{#6a7734} 𝘯͟𝘰͟𝘸͟.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ}}$ <br>
 <div align="center">
 
-${\text{\color{#272708} heardㅤitㅤ\color{#3d2c0e} mightㅤ\color{#503013} 𝘨𝘰ㅤ\color{#663519} 𝘥𝘰𝘸𝘯,ㅤ\color{#6f3e1e} i'mㅤ\color{#794A23} likeㅤ\color{#745627} '𝘩𝘰𝘸'𝘥ㅤ\color{#70612B} 𝘵𝘩𝘢𝘵ㅤ\color{#6a7734} 𝘴͟𝘰͟𝘶͟𝘯͟𝘥͟?'}}$
+${\text{\color{#272708}ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ heardㅤitㅤ\color{#3d2c0e} mightㅤ\color{#503013} 𝘨𝘰ㅤ\color{#663519} 𝘥𝘰𝘸𝘯,ㅤ\color{#6f3e1e} i'mㅤ\color{#794A23} likeㅤ\color{#745627} '𝘩𝘰𝘸'𝘥ㅤ\color{#70612B} 𝘵𝘩𝘢𝘵ㅤ\color{#6a7734} 𝘴͟𝘰͟𝘶͟𝘯͟𝘥͟?'}}$
 <br>
       </td>
     </tr>
