@@ -29,6 +29,3 @@ ${\text{\color{#421e20} ' 𝒊'mㅤ\color{#512830} 𝗌𝘁𝘂𝗰𝗄ㅤ\color
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ${\text{\color{#565450} ᣫ𝗎͟𝗌͟tㅤ\color{#7c7457} likeㅤ\color{#8c825a} 𝓅𝗋𝖾𝗍𝗍𝗒ㅤ\color{#a89b60} 𝓹𝗼͟𝗶͟𝘀͟𝗼𝗻ㅤ. '}}$ <br>
     <br>
     <br>
-    ㅤ 
-    ㅤ 
-    <br>
