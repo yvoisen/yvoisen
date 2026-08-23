@@ -1,7 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 <img src="https://file.garden/adC_TK5dkztFvB_Z/redbeigealtgraphic.madebyyvoisen.png#left" width="340" align="left">ㅤ
-<img src="https://komarev.com/ghpvc/?username=yvoisen&color=512830&style=flat-square&label=_哥特++ཻུ۪۪♡++.+_">ㅤ<a href="https://rentry.co/vaudegoth"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.rentrytxt.yvoisen.png" width="75"/>ㅤ</a> <a href="https://yvoisen.atabook.org"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.atabooktxt.yvoisen.png" width="85"/> </a>ㅤ<a href="https://pronouns.cc/@ferre"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.prncctxt.yvoisen.png" width="80"/> </a>
+<img src="https://komarev.com/ghpvc/?username=yvoisen&color=512830&style=flat-square&label=_哥特++ཻུ۪۪♡++.+_">ㅤ<a href="https://rentry.co/vaudegoth"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.rentrytxt.yvoisen.png" width="75"/>ㅤ</a> <a href="https://yvonne.atabook.org"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.atabooktxt.yvoisen.png" width="85"/> </a>ㅤ<a href="https://pronouns.cc/@ferre"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.prncctxt.yvoisen.png" width="80"/> </a>
  <details> <summary> <sub><a </sub>${\textsf{\color{#421e20} feel　\color{#512830} free　\color{#653644} 2　\color{#5e454a} check　\color{#565450} out　\color{#7c7457} my　}}$ <sub><a href="https://x.com/vonnesque">𝕏/twt</a> </summary> <br>
          <sub><a </sub>${\text{\color{#421e20} my　\color{#512830} art　\color{#653644} gets　\color{#5e454a} posted　\color{#565450} there　\color{#7c7457} (once　\color{#8c825a} in a　\color{#a89b60} blue　\color{#baa963} moon)}}$ </a><br>
  </details>
