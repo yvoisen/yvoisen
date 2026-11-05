@@ -1,4 +1,11 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<!--
+
+i know each one of u that're copying my readme btw lol
+forking my repository off of someone elses fork isnt being secretive
+
+people be like "do not copy / do not take inspo" then go n copy ur shi
+
+ </!-->ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 <img src="https://file.garden/adC_TK5dkztFvB_Z/redbeigealtgraphic.madebyyvoisen.png#left" width="340" align="left">ㅤ
 <img src="https://komarev.com/ghpvc/?username=yvoisen&color=512830&style=flat-square&label=_哥特++ཻུ۪۪♡++.+_">ㅤ<a href="https://rentry.co/vaudegoth"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.rentrytxt.yvoisen.png" width="75"/>ㅤ</a> <a href="https://yvonne.atabook.org"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.atabooktxt.yvoisen.png" width="85"/> </a>ㅤ<a href="https://pronouns.cc/@ferre"><img src="https://file.garden/adC_TK5dkztFvB_Z/redbeige.prncctxt.yvoisen.png" width="80"/> </a>
