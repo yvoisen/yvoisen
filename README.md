@@ -1,6 +1,6 @@
 <!--
 
-i know each one of u that're copying my readme btw lol
+i know each one of u that're copying my readme/other socials btw lol
 forking my repository off of someone elses fork isnt being secretive
 
 people be like "do not copy / do not take inspo" then go n copy ur shi
